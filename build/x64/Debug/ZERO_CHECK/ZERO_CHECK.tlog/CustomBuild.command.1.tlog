@@ -1,0 +1,10 @@
+^G:\PROJECTS\OPENCV-C++\OPENCV-CPP\BUILD\CMAKEFILES\A7F38CCA2391A7762A4B143FC42108CA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SG:/Projects/OpenCV-C++/OpenCV-CPP -BG:/Projects/OpenCV-C++/OpenCV-CPP/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file G:/Projects/OpenCV-C++/OpenCV-CPP/build/basic_codes.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

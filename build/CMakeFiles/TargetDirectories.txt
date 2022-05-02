@@ -1,0 +1,9 @@
+G:/Projects/OpenCV-C++/OpenCV-CPP/build/CMakeFiles/Experimental.dir
+G:/Projects/OpenCV-C++/OpenCV-CPP/build/CMakeFiles/Nightly.dir
+G:/Projects/OpenCV-C++/OpenCV-CPP/build/CMakeFiles/Continuous.dir
+G:/Projects/OpenCV-C++/OpenCV-CPP/build/CMakeFiles/NightlyMemoryCheck.dir
+G:/Projects/OpenCV-C++/OpenCV-CPP/build/CMakeFiles/basic_codes.dir
+G:/Projects/OpenCV-C++/OpenCV-CPP/build/CMakeFiles/PACKAGE.dir
+G:/Projects/OpenCV-C++/OpenCV-CPP/build/CMakeFiles/RUN_TESTS.dir
+G:/Projects/OpenCV-C++/OpenCV-CPP/build/CMakeFiles/ALL_BUILD.dir
+G:/Projects/OpenCV-C++/OpenCV-CPP/build/CMakeFiles/ZERO_CHECK.dir
